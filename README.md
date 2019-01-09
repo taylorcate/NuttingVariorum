@@ -21,4 +21,5 @@ I spent a great deal of time organizing the repo and outlining the work to be do
 **March 7th, 2019: Invited Presentation at The Wordsworth Trust**  
 Presenting, _The Digital Variorum of Wordsworth's "Nutting"_ for Jeff Cowton, curator of [The Wordsworth Trust](https://wordsworth.org.uk/), and colleagues.  
 
-**May 4th, 2019: Capstone Defense**
+**May 4th, 2019: Capstone Defense**  
+One of two defenses standing between me and graduation. :+1:
