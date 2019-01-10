@@ -13,7 +13,7 @@ Check out the [project Wiki page](https://github.com/taylorcate/NuttingVariorum/
 The project began as an experiment to do Textual Studies work in a public, version-controlled environment.  
 
 **May 4th, 2018: Edition Submitted for Final ENGL 413 Assignment**  
-I received very sound, heart-felt advice from Dr. Eggert which I plan to implement in Iteration 2.0 of the edition.  
+I received very sound, heart-felt advice from Dr. Paul Eggert, scholar and retired professor of Textual Studies, which I plan to implement in Iteration 2.0 of the edition.  
 
 **January 9th, 2019: Started Iteration 2.0**  
 I spent a great deal of time organizing the repo and outlining the work to be done.  
