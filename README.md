@@ -24,6 +24,7 @@ Presenting, _The Digital Variorum of Wordsworth's "Nutting"_ for Jeff Cowton, cu
 **May 4th, 2019: Capstone Defense**  
 One of two defenses standing between me and graduation. :+1:
 
+
 _Follow the project on Instagram!_ [@wwnuttingvariorum](https://www.instagram.com/wwnuttingvariorum/?hl=en)
 
 **Comments or Questions? Send me an email!  
