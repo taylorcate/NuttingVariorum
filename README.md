@@ -5,6 +5,8 @@ This is the public repository for _The Digital Variorum of Wordsworth's "Nutting
 
 Check out the [project Wiki page](https://github.com/taylorcate/NuttingVariorum/wiki) for more information and be sure to stop by often for progress updates and event information!
 
+_Follow the project on Instagram!_ [@wwnuttingvariorum](https://www.instagram.com/wwnuttingvariorum/?hl=en)
+
 **Current State of the Edition:** https://taybrown147.wixsite.com/nuttingedition
 
 ### Project Timeline:  
@@ -24,8 +26,6 @@ Presenting, _The Digital Variorum of Wordsworth's "Nutting"_ for Jeff Cowton, cu
 **May 4th, 2019: Capstone Defense**  
 One of two defenses standing between me and graduation. :+1:
 
-
-_Follow the project on Instagram!_ [@wwnuttingvariorum](https://www.instagram.com/wwnuttingvariorum/?hl=en)
 
 **Comments or Questions? Send me an email!  
 Tay Brown: wwnuttingvariorum@gmail.com**
