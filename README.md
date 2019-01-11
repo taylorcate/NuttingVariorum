@@ -28,4 +28,4 @@ One of two defenses standing between me and graduation. :+1:
 
 
 **Comments or Questions? Send me an email!  
-Tay Brown: wwnuttingvariorum@gmail.com**
+Taylor Brown: wwnuttingvariorum@gmail.com**
