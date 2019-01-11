@@ -20,7 +20,7 @@ I received very sound, heart-felt advice from Dr. Paul Eggert, scholar and retir
 **January 9th, 2019: Started Iteration 2.0**  
 I spent a great deal of time organizing the repo and outlining the work to be done.  
 
-**March 7th, 2019: Invited Presentation at The Wordsworth Trust**  
+**March 7th, 2019: [Invited Presentation at The Wordsworth Trust](https://raw.githubusercontent.com/taylorcate/NuttingVariorum/master/CCI16112018_0000.jpg)**  
 Presenting, _The Digital Variorum of Wordsworth's "Nutting"_ for Jeff Cowton, curator of [The Wordsworth Trust](https://wordsworth.org.uk/), and colleagues.  
 
 **May 4th, 2019: Capstone Defense**  
