@@ -1,3 +1,4 @@
+![a simple digital illustration of the fells behind Derwent water](https://raw.githubusercontent.com/taylorcate/NuttingVariorum/master/DesignMaterials/Illustrations/DerwentWater_CoverImage_001_4README.png)
 # —With gentle hand/Touch, for there is a spirit in the woods.
 
 ## Thank you for stopping by!  
