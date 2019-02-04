@@ -25,7 +25,7 @@ I spent a great deal of time organizing the repo and outlining the work to be do
 Presenting, _The Digital Variorum of Wordsworth's "Nutting"_ for Jeff Cowton, curator of [The Wordsworth Trust](https://wordsworth.org.uk/), and colleagues.  
 
 **April 17th, 2019: Capstone Defense**  
-One of two defenses standing between me and graduation. :+1:
+The only obstacle standing between me and graduation. :+1:
 
 
 **Comments or Questions? Send me an email!  
