@@ -10,6 +10,8 @@ _Follow the project on Instagram!_ [@wwnuttingvariorum](https://www.instagram.co
 
 **Current State of the Edition:** https://taybrown147.wixsite.com/nuttingedition
 
+_**This repository is protected under a [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) Creative Commons license.**_
+
 ### Project Timeline:  
 
 **January 31st, 2018: GitHub Repo Opened**  
