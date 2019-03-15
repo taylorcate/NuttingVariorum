@@ -23,8 +23,11 @@ I received very sound, heart-felt advice from Dr. Paul Eggert, scholar and retir
 **January 9th, 2019: Started Iteration 2.0**  
 I spent a great deal of time organizing the repo and outlining the work to be done.  
 
-**March 7th, 2019: [Invited Presentation at The Wordsworth Trust](https://raw.githubusercontent.com/taylorcate/NuttingVariorum/master/CCI16112018_0000.jpg)**  
+**March 6th, 2019: [Invited Presentation at The Wordsworth Trust](https://raw.githubusercontent.com/taylorcate/NuttingVariorum/master/CCI16112018_0000.jpg)**  
 Presenting, _The Digital Variorum of Wordsworth's "Nutting"_ for Jeff Cowton, curator of [The Wordsworth Trust](https://wordsworth.org.uk/), and colleagues.  
+
+**March 11th, 2019: Began Collaborating with Jenny Dickinson**  
+@spinningjenny - Illustrator of Children's Books and Historical Narratives. Currently residing in Grasmere, Cumbria.  
 
 **April 23rd, 2019: Capstone Defense**  
 The only obstacle standing between me and graduation. :+1:
